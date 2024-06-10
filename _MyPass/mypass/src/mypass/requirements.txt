@@ -1,3 +1,0 @@
-toga
-cryptography
-requests  # For cloud backup API interactions
